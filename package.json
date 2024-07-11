@@ -1,0 +1,13 @@
+{
+  "name": "task-3",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Generalized rock-paper-scissors game",
+  "main": "index.js",
+  "author": "Alejandro Madera",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "readline-sync": "^1.4.10"
+  }
+}
