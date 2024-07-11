@@ -52,3 +52,5 @@ The victory is defined as follows:
 
 - Half of the next moves in the circle win.
 - Half of the previous moves in the circle lose.
+
+## [Video of functionality](https://drive.google.com/file/d/16zABaaRNb2gP9imRyzHNdAo9dDiyojN0/view?usp=sharing)
